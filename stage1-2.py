@@ -32,7 +32,7 @@ num9 = round(num9/sum*total_deliveries)
 num10 = 100-(num1+num2+num3+num4+num5+num6+num7+num8+num9)
 
 deliveries = [num1, num2, num3, num4, num5, num6, num7, num8, num9, num10]
-cities = ['Brampton', 'Kitchener', 'Kingston', 'North_Bay', 'Tilbury', 'Johnstown', 'Mississauga', 'Cornwall', 'Niagara_Falls', 'Barrie']
+cities = ['Tilbury', 'Mississauga', 'Cornwall', 'London', 'Windsor', 'Niagara_Falls', 'Barrie', 'Kingston', 'Huntsville', 'North_Bay']
 
 # Data to be written
 dictionary = {
